@@ -1,8 +1,8 @@
 <?php
 //核心操作文件
 function du_init($quickinit = false){
-  define('BPCSU_KEY','uFBSHEwWE6DD94SQx9z77vgG');
-  define('BPCSU_SEC','7w6wdSFsTk6Vv586r1W1ozHLoDGhXogD');
+  define('BPCSU_KEY','uFBSHEwWE6DD94SQx9z77vg');
+  define('BPCSU_SEC','7w6wdSFsTk6Vv586r1W1ozHLoDGhXog');
   define('BPCSU_FNAME','bpcs_uploader');
   if($quickinit){
     //快速初始化
